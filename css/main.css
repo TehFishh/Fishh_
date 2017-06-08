@@ -1,0 +1,60 @@
+.main {
+    text-shadow: 0px 0px 10px #000;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    top: 45%;
+    transform: translateY(-50%);
+    z-index: 1000;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.title {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.pronunciation {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.second-title {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Sansita', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.max-width {
+    max-width: 45%;
+}
+
+a {
+    padding: 0.5em;
+    border-radius: 0.5em;
+    background: transparent;
+    color: #0d86b7;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
